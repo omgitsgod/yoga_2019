@@ -187,9 +187,9 @@ a:not([href]):not([tabindex]):hover {
 }
 .btn-border {
   color: #fff;
-  background-color: transparent;
   border: 2px solid #fff;
   border-radius: 4px;
+  background-color: #1AB7D8;
 }
 .btn-border:hover {
   border: 2px solid #fff;
