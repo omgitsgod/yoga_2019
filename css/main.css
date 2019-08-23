@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Raleway:100,600');
 /*
 * Crystal - Bootstrap 4 Template
@@ -18,7 +18,7 @@
     -2.3 SOCIAL ICON
     -2.4 PRE LOADER
     -2.5 SCROLL TO UP
-  3. HERO AREA 
+  3. HERO AREA
   4. NAVBAR
   5. SLIDER
   6. VIDEO BACKGROUND
@@ -26,7 +26,7 @@
   8. FEATURES SECTION
   9. VIDEO PROMO SECTION
   10. PORTFOLIO SECTION
-  11. PRICING TABLE 
+  11. PRICING TABLE
   12. COUNTER SECTION
   13. TESTIMONIAL AREA
   14. DOWNALOAD APP
@@ -345,8 +345,8 @@ button:focus {
     -webkit-transform: scale(1);
   }
 }
-/* ========================================================================== 
-  -2.5 Scroll To Up 
+/* ==========================================================================
+  -2.5 Scroll To Up
    ========================================================================== */
 .back-to-top {
   display: none;
@@ -373,7 +373,7 @@ button:focus {
    3. Hero Area
    ========================================================================== */
 #hero-area {
-  background: url(../img/hero-area.jpg) fixed no-repeat;
+  background: url(../img/homee.jpeg) fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
@@ -1157,7 +1157,7 @@ button:focus {
   color: #fff;
 }
 /* ==========================================================================
-  16. Clients 
+  16. Clients
    ========================================================================== */
 #clients {
   background: #F2F2F2;
@@ -1179,7 +1179,7 @@ button:focus {
   display: none;
 }
 /* ==========================================================================
-  17. Blog 
+  17. Blog
    ========================================================================== */
 #blog .blog-item-wrapper {
   background: #fff;
@@ -1515,4 +1515,12 @@ footer {
 }
 .post-meta ul li a:hover {
   color: #4676fa;
+}
+
+.caro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 650px;
 }
